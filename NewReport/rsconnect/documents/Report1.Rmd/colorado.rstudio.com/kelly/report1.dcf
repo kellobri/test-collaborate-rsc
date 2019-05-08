@@ -1,0 +1,12 @@
+name: report1
+title: Report1
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 2402
+bundleId: 25693
+url: https://colorado.rstudio.com:443/rsc/content/2402/
+when: 1557324013.05147
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: colab-ex
+title: Colab-Ex
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 2401
+bundleId: 25692
+url: https://colorado.rstudio.com:443/rsc/content/2401/
+when: 1557323687.99949
+asMultiple: FALSE
+asStatic: FALSE
